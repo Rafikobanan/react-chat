@@ -1,9 +1,9 @@
 import React from 'react';
+import ChatPage from './containers/ChatPage';
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <ChatPage />
   );
 }
 
